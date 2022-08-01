@@ -1,0 +1,1 @@
+Testing of the Skype mobile application. UI testing, tests for interruption, testing of performance, orientation testing, testing for interruption, testing of performance was held. I created a test documentation (Structure of the application, the test the plan, the check a leaf, a bug a contango, the report on testing). For testing were used by Charles and Android Studio programs
