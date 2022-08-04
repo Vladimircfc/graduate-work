@@ -3,7 +3,8 @@ Testing of the Skype mobile application. UI testing, tests for interruption, tes
 In order to determine what types of testing will be carried out, as well as the risks and time that will be spent on the project, a test plan was created 
 httpsgithub.comVladimircfcgraduate-workblobd985a31428bb30e413d6d2a8a72b7c295224b251Test%20Plan.xlsx
 
-An application structure was created to make it easier to test application modules httpsgithub.comVladimircfcgraduate-workblobd985a31428bb30e413d6d2a8a72b7c295224b251Structure.jpg
+An application structure was created to make it easier to test application modules 
+httpsgithub.comVladimircfcgraduate-workblobd985a31428bb30e413d6d2a8a72b7c295224b251Structure.jpg
 
 Check list was created for the main modules of the application 
 httpsgithub.comVladimircfcgraduate-workblobd985a31428bb30e413d6d2a8a72b7c295224b251Check%20List.xlsx
